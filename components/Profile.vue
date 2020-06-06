@@ -21,7 +21,7 @@
       <cv-list-item><p>Professional with over 20 years experience on development & management of state-of-the-art Technologies ranging from services in the digital media industry (such as Playstation 2 & 3) up to system development for Financial groups(Bradesco financeira) & health care Institutions.</p></cv-list-item>
       <cv-list-item><p>Project management using Agile (SCRUM) methods & Framework ITIL v3.</p></cv-list-item>
       <cv-list-item><p>Relevant experience in web development (e-commerce & institutional platforms),SPAs, CRUDs, CMS, APIs (REST) & portfolios.</p></cv-list-item>
-      <cv-list-item><p>Programming languages : Python 3, PHP, Javascript, Ruby, Typescript, Dart & C#.</p></cv-list-item>
+      <cv-list-item><p>Programming languages : Python 3, PHP, Javascript, Ruby, Typescript, Go, Dart & C#.</p></cv-list-item>
       <cv-list-item><p>
         Frameworks & IDEs:
         Angular 2+, React & Vue; Node JS, Rails 5, ASP.NET (Core & MVC), Django, JQuery, PyCharm, Eclipse & GeneXus; Ionic React Native & Flutter.
@@ -35,7 +35,7 @@
       <cv-list-item><p>Profissional com mais de 20 anos de experiência desenvolvendo e gerenciando Tecnologias de vanguarda desde serviços para indústria de mídias óticas (como Playstation 2 e 3) até o desenvolvimento de sistemas para instituições financeiras (Bradesco financeira) e sistemas de saúde.</p></cv-list-item>
       <cv-list-item><p>Gerenciamento de projetos utilizando métodos Agile (SCRUM) e Framework ITIL v3.</p></cv-list-item>
       <cv-list-item><p>Experiência relevante em desenvolvimento web (e-commerce e plataformas institucionais), SPAs, CRUDs, CMS, APIs (REST) e portfolios.</p></cv-list-item>
-      <cv-list-item><p>Linguagens de Programação : Python 3, PHP, Javascript, Ruby, Typescript, Dart & C#.</p></cv-list-item>
+      <cv-list-item><p>Linguagens de Programação : Python 3, PHP, Javascript, Ruby, Typescript, Go, Dart & C#.</p></cv-list-item>
       <cv-list-item><p>
         Frameworks e IDEs:
         Angular 2+, React & Vue; Node JS, Rails 5, ASP.NET (Core & MVC), Django, JQuery, PyCharm, Eclipse & GeneXus; Ionic React Native & Flutter.
