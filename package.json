@@ -15,7 +15,7 @@
     "@carbon/icons-vue": "^10.6.0",
     "@carbon/vue": "2.18.0",
     "core-js": "^2.6.5",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
